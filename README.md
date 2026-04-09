@@ -1,4 +1,4 @@
-# International Cuisine Restaurant — Menu & Order Analysis
+# International Cuisine Restaurant — Menu & Order Behaviour Analysis
 
 ## Project Overview
 SQL analysis of menu performance and customer order behaviour for an international cuisine restaurant dataset. The goal is to identify revenue drivers, peak trading periods, and underperforming items to support data-driven decision making.
